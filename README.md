@@ -24,6 +24,6 @@ Este projeto tem o intuito de estudar Modelos de Séries Temporais para previsã
 
 ## Referências
 
-[KAGGLE](https://www.kaggle.com/datasets/mauriciofigueiredo/cpia-local-de-datahubs-covid19-dataset/data)
+[KAGGLE](https://www.kaggle.com/datasets/unanimad/corona-virus-brazil?select=brazil_covid19.csv)
 
 

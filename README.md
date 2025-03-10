@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de estudar Modelos de Séries Temporais para previsão de informações sobre o Covid19.
+Este projeto tem o intuito de estudar Modelos de Séries Temporais para previsão da Taxa de Mortalidade em alguns países.
 
 ## Fundamentação Teórica
 
@@ -24,6 +24,6 @@ Este projeto tem o intuito de estudar Modelos de Séries Temporais para previsã
 
 ## Referências
 
-[KAGGLE](https://www.kaggle.com/datasets/unanimad/corona-virus-brazil?select=brazil_covid19.csv)
+[KAGGLE](https://www.tableau.com/learn/articles/free-public-data-sets)
 
 
